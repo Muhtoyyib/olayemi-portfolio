@@ -11,7 +11,7 @@ export function HeroSection() {
           <div className="order-2 md:order-1">
             <p className="text-primary font-medium mb-2">Welcome to my portfolio</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4 text-balance">
-              Aolayemi Abimbola Faruq
+              Olayemi Abimbola Faruq
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-6">Library & Information Science Professional</p>
             <p className="text-muted-foreground mb-8 max-w-lg leading-relaxed">
@@ -39,7 +39,7 @@ export function HeroSection() {
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary shadow-2xl">
                 <Image
                   src="/images/image.png"
-                  alt="Aolayemi Abimbola Faruq - Library and Information Science Professional"
+                  alt="Olayemi Abimbola Faruq - Library and Information Science Professional"
                   fill
                   className="object-cover object-top"
                   priority

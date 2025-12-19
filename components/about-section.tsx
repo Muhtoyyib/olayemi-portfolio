@@ -32,7 +32,7 @@ export function AboutSection() {
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">About Me</h2>
           <div className="w-20 h-1 bg-primary mx-auto mb-6" />
           <p className="text-muted-foreground leading-relaxed mb-6">
-            I am <strong className="text-foreground">Aolayemi Abimbola Faruq</strong>, a dedicated Library and
+            I am <strong className="text-foreground">Olayemi Abimbola Faruq</strong>, a dedicated Library and
             Information Science student at the prestigious{" "}
             <strong className="text-foreground">University of Ilorin</strong>. My passion lies in bridging the gap
             between information resources and those who need them.

@@ -8,18 +8,18 @@ const _inter = Inter({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Aolayemi Abimbola Faruq | LIS Professional",
+  title: "Olayemi Abimbola Faruq | LIS Professional",
   description:
-    "Professional portfolio of Aolayemi Abimbola Faruq - Library and Information Science student at the University of Ilorin, specializing in information management, digital literacy, and research support.",
+    "Professional portfolio of Olayemi Abimbola Faruq - Library and Information Science student at the University of Ilorin, specializing in information management, digital literacy, and research support.",
   keywords: [
     "Library Science",
     "Information Science",
     "LIS",
     "University of Ilorin",
-    "Aolayemi Abimbola Faruq",
+    "Olayemi Abimbola Faruq",
     "Information Management",
   ],
-  authors: [{ name: "Aolayemi Abimbola Faruq" }],
+  authors: [{ name: "Olayemi Abimbola Faruq" }],
   generator: "v0.app",
   icons: {
     icon: [
